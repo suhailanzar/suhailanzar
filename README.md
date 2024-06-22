@@ -1,22 +1,20 @@
 <h1 align="center">Hi there👋🏻</h1>
 
-**roypriyanshu02** ➜ **~** **$** introd name \
-&nbsp;Priyanshu Roy
+**suhailansar** ➜ **~** **$** introd name \
+&nbsp;Suhail Ansar
 
-**roypriyanshu02** ➜ **~** **$** introd pronouns \
-&nbsp;He | Him
 
-**roypriyanshu02** ➜ **~** **$** introd roles \
-&nbsp;CSE Student, Web & Software Developer, Entrepreneur and Data Analyst
+**suhailansar** ➜ **~** **$** introd roles \
+&nbsp;CSE Student, Web & Software Developer 
 
-**roypriyanshu02** ➜ **~** **$** introd speaker \
-&nbsp;English, Hindi and Bengali
+**suhailansar** ➜ **~** **$** introd speaker \
+&nbsp;English , malayalam
 
-**roypriyanshu02** ➜ **~** **$** introd summary \
+**suhailansar** ➜ **~** **$** introd summary \
 &nbsp;I love figuring out new technology and using it. I enjoy collaborating or building new open-source or commercial products and services that are truly useful
 
 **roypriyanshu02** ➜ **~** **$** introd quick-facts \
-&nbsp;🔭 I’m currently working mainly on _[Wellallies](https://github.com/wellallies)_. \
+# &nbsp;🔭 I’m currently working mainly on _[Wellallies](https://github.com/wellallies)_. \
 &nbsp;🤝 I’m always ready to collaborate on _Open-source & Start-up projects_. \
 &nbsp;✨ Interested in _UX Designing, Web & Software Developing and Machine learning_. \
 &nbsp;💬 Ask me about _Anything_. \
