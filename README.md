@@ -5,7 +5,7 @@
 
 
 **suhailansar** ➜ **~** **$** introd roles \
-&nbsp;CSE Student, Web & Software Developer 
+&nbsp;CS Student, Web & Software Developer 
 
 **suhailansar** ➜ **~** **$** introd speaker \
 &nbsp;English , malayalam
@@ -14,12 +14,8 @@
 &nbsp;I love figuring out new technology and using it. I enjoy collaborating or building new open-source or commercial products and services that are truly useful
 
 &nbsp;🤝 I’m always ready to collaborate on _Open-source & Start-up projects_. \
-&nbsp;✨ Interested in _UX Designing, Web & Software Developing and Machine learning_. \
-&nbsp;💬 Ask me about _Anything_. \
-&nbsp;📄 Check out my Resume _[Here](https://drive.google.com/drive/folders/1sIvW7jsUrjzo3ycM6Kf4wF6hoH9fkB9J?usp=share_link)_. \
-&nbsp;👾 Fun fact _Everything that has been or could be written/said already exists in the [Library of Babel](https://libraryofbabel.info/)_.
+&nbsp;✨ Interested in _UX Designing, Web & Software Developing . \
 
-**roypriyanshu02** ➜ **~** **$** introd technologies \
 &nbsp;Languages : \
 &nbsp;<a rel="nofollow" href="https://html.spec.whatwg.org/multipage/" target="_blank" title="HTML5"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Html5/e34f26"></a>&nbsp;
 <a rel="nofollow" href="https://www.w3.org/TR/CSS/#css" target="_blank" title="CSS3"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Css3/1572b6"></a>&nbsp;
@@ -56,9 +52,7 @@
 &nbsp;<a rel="nofollow" href="https://www.microsoft.com/en-in/windows/" target="_blank" title="Windows"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Windows11/0078d4"></a>&nbsp;
 <a rel="nofollow" href="https://ubuntu.com/" target="_blank" title="Ubuntu"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Ubuntu/e95420"></a>
 
-**roypriyanshu02** ➜ **~** **$** introd see-you \
-&nbsp;I like connecting with different people so if you want to say _Hi👋🏻_, here's my social media handles _[@roypriyanshu02](https://about.me/roypriyanshu02)_. I'll be happy to meet you more!
+&nbsp;I like connecting with different people so if you want to say _Hi👋🏻_ I'll be happy to meet you more!
 
----
+----------
 
-<h3 align="center">My repos ⬇️</h3>
