@@ -1,28 +1,23 @@
 <h1 align="center">Hi there👋🏻</h1>
 
-**suhailansar** ➜ **~** **$** introd name \
 &nbsp;Suhail Ansar
 
-
-**suhailansar** ➜ **~** **$** introd roles \
 &nbsp;CS Student, Web & Software Developer 
 
-**suhailansar** ➜ **~** **$** introd speaker \
 &nbsp;English , malayalam
 
-**suhailansar** ➜ **~** **$** introd summary \
 &nbsp;I love figuring out new technology and using it. I enjoy collaborating or building new open-source or commercial products and services that are truly useful
-
 &nbsp;🤝 I’m always ready to collaborate on _Open-source & Start-up projects_. \
 &nbsp;✨ Interested in _UX Designing, Web & Software Developing . \
 
-&nbsp;Languages : \
+&nbsp;Languages : 
 &nbsp;<a rel="nofollow" href="https://html.spec.whatwg.org/multipage/" target="_blank" title="HTML5"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Html5/e34f26"></a>&nbsp;
 <a rel="nofollow" href="https://www.w3.org/TR/CSS/#css" target="_blank" title="CSS3"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Css3/1572b6"></a>&nbsp;
 <a rel="nofollow" href="http://www.ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank" title="JavaScript"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/JavaScript/f7df1e"></a>&nbsp;
-<a rel="nofollow" href="https://www.php.net/" target="_blank" title="PHP"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Php/777bb4"></a>&nbsp;
-<a rel="nofollow" href="https://sass-lang.com/" target="_blank" title="Sass"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Sass/CC6699"></a>&nbsp;
-<a rel="nofollow" href="https://www.python.org/" target="_blank" title="Python"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Python/ffd43b"></a> \
+<a href="https://www.typescriptlang.org" target="_blank"><img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="TypeScript"></a>&nbsp;
+<a href="https://www.mongodb.com" target="_blank"><img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="MongoDB"></a>&nbsp;
+
+
 &nbsp;Frameworks & Libraries : \
 &nbsp;<a rel="nofollow" href="https://getbootstrap.com/" target="_blank" title="Bootstrap CSS"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Bootstrap/7952b3"></a>&nbsp;
 <a rel="nofollow" href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/TailwindCss/06b6d4"></a>&nbsp;
