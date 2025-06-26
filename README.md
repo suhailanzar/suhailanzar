@@ -2,7 +2,7 @@
 
 &nbsp;Im Suhail Ansar
 
-&nbsp;CS Student, Web & Software Developer 
+&nbsp;Software Developer 
 
 
 &nbsp;I love figuring out new technology and using it. I enjoy collaborating or building new open-source or commercial products and services that are truly useful
@@ -42,8 +42,6 @@
 <a rel="nofollow" href="https://www.figma.com/" target="_blank" title="Figma"><img loading="lazy" height="20" src="https://cdn.simpleicons.org/Figma/0acf83"></a> 
 
 
-&nbsp;OSs & Platforms : 
-&nbsp;<a rel="nofollow" href="https://www.microsoft.com/en-in/windows/" target="_blank" title="Windows"><img loading="lazy" height="20" src="https://cdn.simpleicons.org/Windows11/0078d4"></a>&nbsp;
 
 &nbsp;I like connecting with different people so if you want to say _Hi👋🏻_ I'll be happy to meet you more!
 
