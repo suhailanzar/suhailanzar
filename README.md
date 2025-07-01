@@ -1,5 +1,7 @@
-<h1 align="center">Hi there👋🏻</h1>
+<h1 align="center">Hi there..</h1>
 
-&nbsp;Im Suhail Ansar
-
-&nbsp;Software Developer 
+<p align="center">
+  <b>I'm Suhail Ansar</b><br/>
+  Software Developer<br/><br/>
+  Developer | Thinker | Learner
+</p>
